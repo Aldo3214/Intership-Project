@@ -1,2 +1,2 @@
-# Intership-Project
+# Pet Expo project in Reacjs
  
